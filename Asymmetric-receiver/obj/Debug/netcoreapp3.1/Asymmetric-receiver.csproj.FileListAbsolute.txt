@@ -1,0 +1,13 @@
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\obj\Debug\netcoreapp3.1\Asymmetric-receiver.csprojAssemblyReference.cache
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\obj\Debug\netcoreapp3.1\Asymmetric-receiver.AssemblyInfoInputs.cache
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\obj\Debug\netcoreapp3.1\Asymmetric-receiver.AssemblyInfo.cs
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\obj\Debug\netcoreapp3.1\Asymmetric-receiver.csproj.CoreCompileInputs.cache
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\bin\Debug\netcoreapp3.1\Asymmetric-receiver.exe
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\bin\Debug\netcoreapp3.1\Asymmetric-receiver.deps.json
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\bin\Debug\netcoreapp3.1\Asymmetric-receiver.runtimeconfig.json
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\bin\Debug\netcoreapp3.1\Asymmetric-receiver.runtimeconfig.dev.json
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\bin\Debug\netcoreapp3.1\Asymmetric-receiver.dll
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\bin\Debug\netcoreapp3.1\Asymmetric-receiver.pdb
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\obj\Debug\netcoreapp3.1\Asymmetric-receiver.dll
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\obj\Debug\netcoreapp3.1\Asymmetric-receiver.pdb
+C:\Users\PhilipJensen\source\repos\Asymmetric-receiver\Asymmetric-receiver\obj\Debug\netcoreapp3.1\Asymmetric-receiver.genruntimeconfig.cache
